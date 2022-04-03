@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img aling="right" src="https://discord.com/channels/@me/826810375252738099/960240913983090718" alt="tay.gif">
+  <img align="right" height="150" width="150" src="https://media.discordapp.net/attachments/920027735810801774/960229302614491226/tay.gif" alt="tay.gif">
 </div>
   
   ##
@@ -25,5 +25,4 @@
   <a href="https://www.linkedin.com/in/tayssa-antoniasse-724373190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/TayAntony/TayAntony/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
