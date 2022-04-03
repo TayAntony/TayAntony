@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" height="150" width="150" src="https://media.discordapp.net/attachments/920027735810801774/960229302614491226/tay.gif" alt="tay.gif">
+  <img align="right" height="200" width="200" src="https://media.discordapp.net/attachments/920027735810801774/960229302614491226/tay.gif" alt="tay.gif">
 </div>
   
   ##
