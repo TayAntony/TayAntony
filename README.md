@@ -1,5 +1,5 @@
 ## Olá, eu sou a Tay 👋
-- 👀 Tenho interesse em linguagens de programação e desenvolvimento web (HTML, CSS, JavaScript, Python, C, React).
+- 👀 Tenho interesse em linguagens de programação, desenvolvimento web e frameworks (HTML, CSS, JavaScript, Python, C, React, Angular, Vue).
 - 🌱 Atualmente estou aprendendo Python
 - 📫 Para falar comigo mande um e-mail: tayssaantoniasse123@gmail.com
 
