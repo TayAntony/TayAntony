@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="10"/></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="10"/></a><br /><a href="https://picasion.com/"></a>
 </div>
   
   ##
