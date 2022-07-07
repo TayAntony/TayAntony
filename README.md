@@ -1,6 +1,6 @@
 ## Olá, eu sou a Tay 👋
 - 👀 Tenho interesse em linguagens de programação, desenvolvimento web e frameworks (HTML, CSS, JavaScript, Python, C, React, Angular, Vue).
-- 🌱 Atualmente estou aprendendo Java Script
+- 🌱 Atualmente estou aprendendo JavaScript
 - 📫 Para falar comigo mande um e-mail: tayssaantoniasse123@gmail.com
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <a align="center" href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="0"/></a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="0"/></a>
 </div>
   
   ##
