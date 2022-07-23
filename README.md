@@ -28,3 +28,5 @@
 
 ##
  <h2><i> Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema! <i/><h2/>
+ 
+ ![Snake animation](https://github.com/TayAntony/TayAntony/blob/output/github-contribution-grid-snake.svg)
