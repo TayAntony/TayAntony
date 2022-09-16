@@ -1,7 +1,7 @@
 ## Hey, i'm Tay 👋
-- 👀 Tenho interesse em linguagens de programação, desenvolvimento web e frameworks (HTML, CSS, JavaScript, Python, C, React, Angular, Vue).
+- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, C, React, Angular, Vue).
 - 🌱 Currenly i'm learning a little bit of everything
-- 📫 To talk with me send an e-mail: tayssaantoniasse123@gmail.com
+- 📫 To talk to me send an e-mail: tayssaantoniasse123@gmail.com
 
 <div align="center">
   <a href="https://github.com/TayAntony">
