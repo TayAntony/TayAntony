@@ -1,7 +1,7 @@
-## Olá, eu sou a Tay 👋
+## Hey, i'm Tay 👋
 - 👀 Tenho interesse em linguagens de programação, desenvolvimento web e frameworks (HTML, CSS, JavaScript, Python, C, React, Angular, Vue).
-- 🌱 Atualmente estou aprendendo JavaScript
-- 📫 Para falar comigo mande um e-mail: tayssaantoniasse123@gmail.com
+- 🌱 Currenly i'm learning a little bit of everything
+- 📫 To talk with me send an e-mail: tayssaantoniasse123@gmail.com
 
 <div align="center">
   <a href="https://github.com/TayAntony">
@@ -27,6 +27,6 @@
 </div>
 
 ##
- <h2><i> Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema! <i/><h2/>
+ <h2><i> Being a developer is a journey where the next stop is the solution of a problem! <i/><h2/>
  
  ![Snake animation](https://github.com/TayAntony/TayAntony/blob/output/github-contribution-grid-snake.svg)
