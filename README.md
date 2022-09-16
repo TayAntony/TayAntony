@@ -1,5 +1,5 @@
 ## Hey, i'm Tay 👋
-- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, C, React, Angular, Vue).
+- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, Java, React, Angular, Vue).
 - 🌱 Currenly i'm learning a little bit of everything
 - 📫 To talk to me send an e-mail: tayssaantoniasse123@gmail.com
 
