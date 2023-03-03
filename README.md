@@ -3,7 +3,7 @@
 - 📫 To talk to me send an e-mail: <strong>tayssaantoniasse123@gmail.com<strong/> 
 ##
 
-<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="202" border="0"/></a>
+<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="204" height="204" border="0"/></a>
 ```javascript
 const me = {
   name: "Tayssa Antoniasse",
@@ -35,6 +35,8 @@ const me = {
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  </div>
+ 
+##
  
 <div> 
   <a href="https://www.instagram.com/tay.antony/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
