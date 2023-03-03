@@ -2,7 +2,7 @@
 - 🌱 Currenly i'm learning FastAPI, Django, React and React Native, and also creating design screen on figma!
 - 📫 To talk to me send an e-mail: <strong>tayssaantoniasse123@gmail.com<strong/> 
 ```javascript
-  const me = {
+const me = {
   name: "Tayssa Antoniasse",
   pronouns: ["She", "Her"],
   game: ["Minecraft", "League of Legends"],
