@@ -3,7 +3,6 @@
 - 📫 To talk to me send an e-mail: <strong>tayssaantoniasse123@gmail.com<strong/> 
 ##
 
-<div>
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="0"/></a>
 ```javascript
 const me = {
@@ -17,7 +16,6 @@ const me = {
   }
 }
 ```
-</div>
 
 <div align="center">
   <a href="https://github.com/TayAntony">
