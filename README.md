@@ -3,7 +3,7 @@
 - 📫 To talk to me send an e-mail: <strong>tayssaantoniasse123@gmail.com<strong/> 
 ##
 
-<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="250" height="250" margin="50"/></a>
+<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="230" height="230" border="0"/></a>
 ```javascript
 const me = {
   name: "Tayssa Antoniasse",
