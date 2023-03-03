@@ -2,7 +2,6 @@
 - 👀 I'm interested in programming languages, web development and frameworks (JavaScript, Python, FastAPI, React).
 - 🌱 Currenly i'm learning FastAPI, Django, React and React Native, and also creating design screen on figma!
 - 📫 To talk to me send an e-mail: <strong>tayssaantoniasse123@gmail.com<strong/> 
-- 
 
 <div align="center">
   <a href="https://github.com/TayAntony">
