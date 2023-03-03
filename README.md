@@ -1,6 +1,10 @@
 - 👀 I'm interested in programming languages, web development and frameworks (JavaScript, Python, FastAPI, React).
 - 🌱 Currenly i'm learning FastAPI, Django, React and React Native, and also creating design screen on figma!
 - 📫 To talk to me send an e-mail: <strong>tayssaantoniasse123@gmail.com<strong/> 
+##
+
+<div>
+<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="0"/></a>
 ```javascript
 const me = {
   name: "Tayssa Antoniasse",
@@ -13,6 +17,7 @@ const me = {
   }
 }
 ```
+</div>
 
 <div align="center">
   <a href="https://github.com/TayAntony">
@@ -31,9 +36,7 @@ const me = {
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0fd0d81fafec3514423de867913846b4.gif" width="200" height="200" border="0"/></a>
-</div>
-  
+ </div>
   ##
  
 <div> 
