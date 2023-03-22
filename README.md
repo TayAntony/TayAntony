@@ -44,6 +44,6 @@ const me = {
 </div>
 
 ##
- <h2><i> Being a developer is a journey where the next stop is the solution of a problem! <i/><h2/>
+ <h2><i> Design is not just what it looks like and feels like. Design is how it works! <i/><h2/>
  
  ![Snake animation](https://github.com/TayAntony/TayAntony/blob/output/github-contribution-grid-snake.svg)
